@@ -1,0 +1,7 @@
+fastapi==0.110.0
+pydantic==2.6.4
+uvicorn[standard]==0.29.0
+ibis-framework[bigquery]==9.0.0
+ibis-framework[postgres]==9.0.0
+ibis-framework[snowflake]==9.0.0
+google-auth==2.29.0
